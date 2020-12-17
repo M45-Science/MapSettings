@@ -18,9 +18,9 @@
             "richness": 2
         },
         "enemy-base": {
-            "frequency": 0.16666667163372039794921875,
+            "frequency": 0,
             "size": 0,
-            "richness": 1
+            "richness": 0
         },
         "iron-ore": {
             "frequency": 1,
