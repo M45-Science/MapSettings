@@ -1,5 +1,5 @@
 {
-    "terrain_segmentation": 0.25,
+    "terrain_segmentation": 0.167,
     "water": 1,
     "autoplace_controls": {
         "coal": {
