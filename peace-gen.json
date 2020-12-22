@@ -34,7 +34,7 @@
         },
         "trees": {
             "frequency": 0.75,
-            "size": 0.16666667163372039794921875,
+            "size": 0.17,
             "richness": 1
         },
         "uranium-ore": {
@@ -47,7 +47,7 @@
     "property_expression_names": {
         "control-setting:aux:bias": "-0.300000",
         "control-setting:aux:frequency:multiplier": "0.166667",
-        "control-setting:moisture:bias": "0.500000",
+        "control-setting:moisture:bias": "0.5",
         "control-setting:moisture:frequency:multiplier": "0.166667",
         "elevation": "0_17-island"
     },
@@ -60,7 +60,7 @@
     "seed": null,
     "width": 8192,
     "height": 8192,
-    "starting_area": 0.16666667163372039794921875,
+    "starting_area": 0.17,
     "peaceful_mode": true,
     "cliff_settings": {
         "name": "cliff",

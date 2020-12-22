@@ -45,7 +45,7 @@
     },
     "autoplace_settings": {},
     "property_expression_names": {
-        "control-setting:moisture:bias": "0.500000",
+        "control-setting:moisture:bias": "0.5",
         "elevation": "0_17-island"
     },
     "starting_points": [
@@ -57,7 +57,7 @@
     "seed": null,
     "width": 8192,
     "height": 8192,
-    "starting_area": 1.33333337306976318359375,
+    "starting_area": 1.4,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",

@@ -15,8 +15,8 @@
     },
     "steering": {
         "default": {
-            "radius": 1.19999999999999996447286321199499070644378662109375,
-            "separation_factor": 1.19999999999999996447286321199499070644378662109375,
+            "radius": 1.2,
+            "separation_factor": 1.2,
             "separation_force": 0.005,
             "force_unit_fuzzy_goto_behavior": false
         },
@@ -31,7 +31,7 @@
         "enabled": true,
         "time_factor": 2e-05,
         "destroy_factor": 0.002,
-        "pollution_factor": 1.19999999999999996447286321199499070644378662109375e-06
+        "pollution_factor": 1.2e-06
     },
     "enemy_expansion": {
         "enabled": true,
@@ -54,7 +54,7 @@
         "max_wait_time_for_late_members": 7200,
         "max_group_radius": 30,
         "min_group_radius": 5,
-        "max_member_speedup_when_behind": 1.399999999999999911182158029987476766109466552734375,
+        "max_member_speedup_when_behind": 1.4,
         "max_member_slowdown_when_ahead": 0.6,
         "max_group_slowdown_factor": 0.3,
         "max_group_member_fallback_factor": 3,

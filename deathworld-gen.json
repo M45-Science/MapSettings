@@ -56,7 +56,7 @@
     "seed": null,
     "width": 8192,
     "height": 8192,
-    "starting_area": 1.33333337306976318359375,
+    "starting_area": 1.33,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",

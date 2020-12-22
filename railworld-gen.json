@@ -3,17 +3,17 @@
     "water": 1,
     "autoplace_controls": {
         "coal": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         },
         "copper-ore": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         },
         "crude-oil": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         },
@@ -23,12 +23,12 @@
             "richness": 1
         },
         "iron-ore": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         },
         "stone": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         },
@@ -38,14 +38,14 @@
             "richness": 1
         },
         "uranium-ore": {
-            "frequency": 0.3333333432674407958984375,
+            "frequency": 0.33,
             "size": 3,
             "richness": 1
         }
     },
     "autoplace_settings": {},
     "property_expression_names": {
-        "control-setting:moisture:bias": "0.500000",
+        "control-setting:moisture:bias": "0.5",
         "elevation": "0_17-island"
     },
     "starting_points": [
@@ -57,7 +57,7 @@
     "seed": null,
     "width": 8192,
     "height": 8192,
-    "starting_area": 1.33333337306976318359375,
+    "starting_area": 1.33,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",
