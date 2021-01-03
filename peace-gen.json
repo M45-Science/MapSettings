@@ -1,6 +1,6 @@
 {
-    "terrain_segmentation": 0.167,
-    "water": 1,
+    "terrain_segmentation": 0.5,
+    "water": 1.5,
     "autoplace_controls": {
         "coal": {
             "frequency": 1,
@@ -44,13 +44,7 @@
         }
     },
     "autoplace_settings": {},
-    "property_expression_names": {
-        "control-setting:aux:bias": "-0.300000",
-        "control-setting:aux:frequency:multiplier": "0.166667",
-        "control-setting:moisture:bias": "0.5",
-        "control-setting:moisture:frequency:multiplier": "0.166667",
-        "elevation": "0_17-island"
-    },
+    "property_expression_names": {},
     "starting_points": [
         {
             "x": 0,
