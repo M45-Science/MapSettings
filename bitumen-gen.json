@@ -1,0 +1,150 @@
+{
+    "terrain_segmentation": 1,
+    "water": 1,
+    "autoplace_controls": {
+        "Shalerock": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "coal": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "cold": {
+            "frequency": 1,
+            "size": 1,
+            "richness": 1
+        },
+        "copper-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "crude-oil": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-gold": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-oil": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-palladium-oxide": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-rhodochrosite": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-silver": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-sulfur": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "deep-tungsten": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "diamond-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "enemy-base": {
+            "frequency": 0.16,
+            "size": 0.25,
+            "richness": 1
+        },
+        "hot": {
+            "frequency": 1,
+            "size": 1,
+            "richness": 1
+        },
+        "iron-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "manganese-ore-dl": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "nickel-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "peat": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "sands-dl": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "stone": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "tarsands-dl": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "trees": {
+            "frequency": 1,
+            "size": 1,
+            "richness": 1
+        },
+        "tungsten-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        },
+        "uranium-ore": {
+            "frequency": 0.33,
+            "size": 1.5,
+            "richness": 2
+        }
+    },
+    "autoplace_settings": {},
+    "property_expression_names": {},
+    "starting_points": [
+        {
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "seed": null,
+    "width": 8192,
+    "height": 8192,
+    "starting_area": 6,
+    "peaceful_mode": true,
+    "cliff_settings": {
+        "name": "cliff",
+        "cliff_elevation_0": 10,
+        "cliff_elevation_interval": 40,
+        "richness": 0
+    }
+}
