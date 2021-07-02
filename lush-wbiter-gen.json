@@ -1,36 +1,36 @@
 {
-    "terrain_segmentation": 1.0,
-    "water": 2.0,
+    "terrain_segmentation": 0.15,
+    "water": 1.0,
     "autoplace_controls": {
         "coal": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         },
         "copper-ore": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         },
         "crude-oil": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         },
         "enemy-base": {
-            "frequency": 2,
-            "size": 2,
+            "frequency": 0.5,
+            "size": 1,
             "richness": 1
         },
         "iron-ore": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         },
         "stone": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         },
         "trees": {
             "frequency": 1,
@@ -38,13 +38,16 @@
             "richness": 1
         },
         "uranium-ore": {
-            "frequency": 1,
+            "frequency": 2,
             "size": 1,
-            "richness": 1
+            "richness": 2
         }
     },
     "autoplace_settings": {},
-    "property_expression_names": {},
+    "property_expression_names": {
+        "control-setting:moisture:bias": "0.500000",
+        "control-setting:moisture:frequency:multiplier": "0.166667"
+    },
     "starting_points": [
         {
             "x": 0,

@@ -1,6 +1,6 @@
 {
     "pollution": {
-        "enabled": false,
+        "enabled": true,
         "diffusion_ratio": 0.02,
         "min_to_diffuse": 15,
         "ageing": 1,
@@ -28,8 +28,8 @@
         }
     },
     "enemy_evolution": {
-        "enabled": false,
-        "time_factor": 4e-06,
+        "enabled": true,
+        "time_factor": 2e-06,
         "destroy_factor": 0.002,
         "pollution_factor": 9e-07
     },

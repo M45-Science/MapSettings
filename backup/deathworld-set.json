@@ -1,9 +1,9 @@
 {
     "pollution": {
-        "enabled": false,
+        "enabled": true,
         "diffusion_ratio": 0.02,
         "min_to_diffuse": 15,
-        "ageing": 1,
+        "ageing": 0.5,
         "expected_max_per_chunk": 150,
         "min_to_show_per_chunk": 50,
         "min_pollution_to_damage_trees": 60,
@@ -11,12 +11,12 @@
         "pollution_per_tree_damage": 50,
         "pollution_restored_per_tree_damage": 10,
         "max_pollution_to_restore_trees": 20,
-        "enemy_attack_pollution_consumption_modifier": 1
+        "enemy_attack_pollution_consumption_modifier": 0.5
     },
     "steering": {
         "default": {
             "radius": 1.2,
-            "separation_factor": 1.2,
+            "separation_factor": 2,
             "separation_force": 0.005,
             "force_unit_fuzzy_goto_behavior": false
         },
@@ -28,13 +28,13 @@
         }
     },
     "enemy_evolution": {
-        "enabled": false,
-        "time_factor": 4e-06,
+        "enabled": true,
+        "time_factor": 2e-05,
         "destroy_factor": 0.002,
-        "pollution_factor": 9e-07
+        "pollution_factor": 2e-06
     },
     "enemy_expansion": {
-        "enabled": false,
+        "enabled": true,
         "max_expansion_distance": 7,
         "friendly_base_influence_radius": 2,
         "enemy_building_influence_radius": 2,

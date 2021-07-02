@@ -1,6 +1,6 @@
 {
-    "terrain_segmentation": 1.0,
-    "water": 2.0,
+    "terrain_segmentation": 0.5,
+    "water": 1.5,
     "autoplace_controls": {
         "coal": {
             "frequency": 1,
@@ -18,7 +18,7 @@
             "richness": 1
         },
         "enemy-base": {
-            "frequency": 2,
+            "frequency": 6,
             "size": 2,
             "richness": 1
         },
@@ -34,7 +34,7 @@
         },
         "trees": {
             "frequency": 1,
-            "size": 1,
+            "size": 3,
             "richness": 1
         },
         "uranium-ore": {
@@ -54,7 +54,7 @@
     "seed": null,
     "width": 8192,
     "height": 8192,
-    "starting_area": 1.5,
+    "starting_area": 1.4,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",

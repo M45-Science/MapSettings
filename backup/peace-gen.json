@@ -1,5 +1,5 @@
 {
-    "terrain_segmentation": 0.5,
+    "terrain_segmentation": 0.15,
     "water": 0.15,
     "autoplace_controls": {
         "coal": {
@@ -33,7 +33,7 @@
             "richness": 6
         },
         "trees": {
-            "frequency": 0.5,
+            "frequency": 0.15,
             "size": 0.15,
             "richness": 1
         },
