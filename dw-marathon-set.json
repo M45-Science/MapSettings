@@ -11,7 +11,7 @@
         "pollution_per_tree_damage": 50,
         "pollution_restored_per_tree_damage": 10,
         "max_pollution_to_restore_trees": 20,
-        "enemy_attack_pollution_consumption_modifier": 0.5
+        "enemy_attack_pollution_consumption_modifier": 0.8
     },
     "steering": {
         "default": {
@@ -29,9 +29,9 @@
     },
     "enemy_evolution": {
         "enabled": true,
-        "time_factor": 2e-05,
+        "time_factor": 0.000015,
         "destroy_factor": 0.002,
-        "pollution_factor": 2e-06
+        "pollution_factor": 0.000001
     },
     "enemy_expansion": {
         "enabled": true,

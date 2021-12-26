@@ -29,9 +29,9 @@
     },
     "enemy_evolution": {
         "enabled": true,
-        "time_factor": 2e-06,
+        "time_factor": 0.000004,
         "destroy_factor": 0.002,
-        "pollution_factor": 9e-07
+        "pollution_factor": 0.0000009
     },
     "enemy_expansion": {
         "enabled": false,

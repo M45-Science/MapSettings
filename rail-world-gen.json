@@ -18,8 +18,8 @@
             "richness": 1
         },
         "enemy-base": {
-            "frequency": 0.5,
-            "size": 0.5,
+            "frequency": 1,
+            "size": 1,
             "richness": 1
         },
         "iron-ore": {
@@ -54,7 +54,7 @@
     "seed": null,
     "width": 6144,
     "height": 6144,
-    "starting_area": 1.33,
+    "starting_area": 1,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",

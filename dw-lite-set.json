@@ -3,7 +3,7 @@
         "enabled": true,
         "diffusion_ratio": 0.01,
         "min_to_diffuse": 15,
-        "ageing": 0.5,
+        "ageing": 1,
         "expected_max_per_chunk": 150,
         "min_to_show_per_chunk": 50,
         "min_pollution_to_damage_trees": 60,
@@ -11,7 +11,7 @@
         "pollution_per_tree_damage": 50,
         "pollution_restored_per_tree_damage": 10,
         "max_pollution_to_restore_trees": 20,
-        "enemy_attack_pollution_consumption_modifier": 0.5
+        "enemy_attack_pollution_consumption_modifier": 1
     },
     "steering": {
         "default": {
@@ -29,9 +29,9 @@
     },
     "enemy_evolution": {
         "enabled": true,
-        "time_factor": 2e-05,
+        "time_factor": 0.000004,
         "destroy_factor": 0.002,
-        "pollution_factor": 2e-06
+        "pollution_factor": 0.0000009
     },
     "enemy_expansion": {
         "enabled": true,

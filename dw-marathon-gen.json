@@ -1,6 +1,6 @@
 {
     "terrain_segmentation": 1.0,
-    "water": 2.0,
+    "water": 1.0,
     "autoplace_controls": {
         "coal": {
             "frequency": 1,
@@ -54,7 +54,7 @@
     "seed": null,
     "width": 6144,
     "height": 6144,
-    "starting_area": 1.5,
+    "starting_area": 0.75,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",

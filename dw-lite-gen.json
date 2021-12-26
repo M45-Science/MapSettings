@@ -1,60 +1,54 @@
 {
-    "terrain_segmentation": 1.0,
-    "water": 2.0,
+    "terrain_segmentation": 1,
+    "water": 1,
     "autoplace_controls": {
         "coal": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "copper-ore": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "crude-oil": {
-            "frequency": 21,
+            "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "enemy-base": {
-            "frequency": 1,
-            "size": 1,
+            "frequency": 2,
+            "size": 2,
             "richness": 1
         },
         "iron-ore": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "stone": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "trees": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         },
         "uranium-ore": {
             "frequency": 2,
             "size": 2,
-            "richness": 2
+            "richness": 1
         }
     },
     "autoplace_settings": {},
     "property_expression_names": {},
-    "starting_points": [
-        {
-            "x": 0,
-            "y": 0
-        }
-    ],
     "seed": null,
     "width": 6144,
     "height": 6144,
-    "starting_area": 4.0,
+    "starting_area": 1.5,
     "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",
