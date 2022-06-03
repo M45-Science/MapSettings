@@ -1,6 +1,6 @@
 {
     "terrain_segmentation": 0.01,
-    "water": 0.1,
+    "water": 0.25,
     "autoplace_controls": {
         "coal": {
             "frequency": 99,
