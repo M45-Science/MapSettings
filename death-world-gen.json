@@ -52,8 +52,8 @@
         }
     ],
     "seed": null,
-    "width": 5120,
-    "height": 5120,
+    "width": 7168,
+    "height": 4032,
     "starting_area": 0.75,
     "peaceful_mode": false,
     "cliff_settings": {
