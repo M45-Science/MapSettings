@@ -46,8 +46,8 @@
     "autoplace_settings": {},
     "property_expression_names": {},
     "seed": null,
-    "width": 6144,
-    "height": 6144,
+    "width": 5120,
+    "height": 5120,
     "starting_area": 1.5,
     "peaceful_mode": false,
     "cliff_settings": {
