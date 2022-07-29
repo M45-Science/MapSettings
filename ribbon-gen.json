@@ -43,16 +43,8 @@
             "richness": 2
         }
     },
-    "autoplace_settings": {},
-    "property_expression_names": {},
-    "starting_points": [
-        {
-            "x": 0,
-            "y": 0
-        }
-    ],
     "seed": null,
-    "width": 204800,
+    "width": 8000000,
     "height": 128,
     "starting_area": 3,
     "peaceful_mode": false,
