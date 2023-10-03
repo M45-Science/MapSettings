@@ -1,6 +1,6 @@
 {
     "pollution": {
-        "enabled": false,
+        "enabled": true,
         "diffusion_ratio": 0.02,
         "min_to_diffuse": 15,
         "ageing": 1,
