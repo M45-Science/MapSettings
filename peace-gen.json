@@ -1,57 +1,23 @@
 {
-    "terrain_segmentation": 1,
-    "water": 1,
-    "autoplace_controls": {
-        "coal": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "copper-ore": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "crude-oil": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "enemy-base": {
-            "frequency": 0,
-            "size": 0,
-            "richness": 0
-        },
-        "iron-ore": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "stone": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "trees": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        },
-        "uranium-ore": {
-            "frequency": 1,
-            "size": 1,
-            "richness": 1
-        }
-    },
-    "seed": null,
-    "width": 16384,
-    "height": 16384,
+    "_comment_width+height": "Width and height of map, in tiles; 0 means infinite",
+    "width": 8192,
+    "height": 8192,
+  
+    "_starting_area_comment": "Multiplier for 'biter free zone radius'",
     "starting_area": 0,
+  
     "peaceful_mode": true,
-    "cliff_settings": {
-        "name": "cliff",
-        "cliff_elevation_0": 10,
-        "cliff_elevation_interval": 40,
-        "richness": 1
+    "autoplace_controls":
+    {
+      "coal": {"frequency": 1, "size": 1, "richness": 1},
+      "stone": {"frequency": 1, "size": 1, "richness": 1},
+      "copper-ore": {"frequency": 1, "size": 1,"richness": 1},
+      "iron-ore": {"frequency": 1, "size": 1, "richness": 1},
+      "uranium-ore": {"frequency": 1, "size": 1, "richness": 1},
+      "crude-oil": {"frequency": 1, "size": 1, "richness": 1},
+      "water": {"frequency": 1, "size": 1},
+      "trees": {"frequency": 1, "size": 1},
+      "enemy-base": {"frequency": 0, "size": 0}
     }
-}
+  }
+  
