@@ -10,12 +10,6 @@
     "enemy_expansion":
     {
       "enabled": false
-    },
-    "asteroids":
-    {
-      "spawning_rate" : 1,
-      "max_ray_portals_expanded_per_tick" : 100
-    },
-    "max_failed_behavior_count": 3
+    }
   }
   
