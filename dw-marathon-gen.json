@@ -1,6 +1,6 @@
 {
-    "terrain_segmentation": 1,
-    "water": 1,
+    "terrain_segmentation": 1.0,
+    "water": 1.0,
     "autoplace_controls": {
         "coal": {
             "frequency": 1,
@@ -18,9 +18,9 @@
             "richness": 1
         },
         "enemy-base": {
-            "frequency": 0,
-            "size": 0,
-            "richness": 0
+            "frequency": 2,
+            "size": 2,
+            "richness": 1
         },
         "iron-ore": {
             "frequency": 1,
@@ -44,10 +44,10 @@
         }
     },
     "seed": null,
-    "width": 16384,
-    "height": 16384,
-    "starting_area": 0,
-    "peaceful_mode": true,
+    "width": 8192,
+    "height": 8192,
+    "starting_area": 0.75,
+    "peaceful_mode": false,
     "cliff_settings": {
         "name": "cliff",
         "cliff_elevation_0": 10,

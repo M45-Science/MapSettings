@@ -1,7 +1,7 @@
 {
     "pollution": {
         "enabled": true,
-        "diffusion_ratio": 0.02,
+        "diffusion_ratio": 0.01,
         "min_to_diffuse": 15,
         "ageing": 1,
         "expected_max_per_chunk": 150,
@@ -16,7 +16,7 @@
     "steering": {
         "default": {
             "radius": 1.2,
-            "separation_factor": 1.2,
+            "separation_factor": 2,
             "separation_force": 0.005,
             "force_unit_fuzzy_goto_behavior": false
         },
@@ -35,7 +35,7 @@
     },
     "enemy_expansion": {
         "enabled": true,
-        "max_expansion_distance": 7,
+        "max_expansion_distance": 5,
         "friendly_base_influence_radius": 2,
         "enemy_building_influence_radius": 2,
         "building_coefficient": 0.1,
